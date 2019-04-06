@@ -1,0 +1,2 @@
+include ':app', ':UsbSerialForAndroid'
+project(':UsbSerialForAndroid').projectDir = new File('app/UsbSerialForAndroid')
